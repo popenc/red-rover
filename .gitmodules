@@ -1,0 +1,4 @@
+[submodule "phidgets_drivers"]
+	path = phidgets_drivers
+	url = https://github.com/ros-drivers/phidgets_drivers
+	branch = kinetic
