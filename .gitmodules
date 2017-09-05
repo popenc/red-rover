@@ -1,0 +1,3 @@
+[submodule "src/phidgets_drivers"]
+	path = src/phidgets_drivers
+	url = https://github.com/ros-drivers/phidgets_drivers.git
